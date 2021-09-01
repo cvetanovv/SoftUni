@@ -1,2 +1,2 @@
 # SoftUni
- Python Basic exercises and projects
+ Python projects and exercises
