@@ -4,7 +4,6 @@ class Party:
         self.people = []
 
 
-
 my_party = Party()
 total_people = 0
 
