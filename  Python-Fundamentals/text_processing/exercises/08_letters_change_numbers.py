@@ -20,4 +20,3 @@ for text in list_of_strings:
     total_sum += temporary_sum
 
 print(f"{total_sum:.2f}")
-# print(string.ascii_uppercase.index("G") + 1)
