@@ -15,3 +15,4 @@ class PlanetRepository:
         for planet in self.planets:
             if planet.name == name:
                 return planet
+        return None
