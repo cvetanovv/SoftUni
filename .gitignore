@@ -114,3 +114,5 @@ dmypy.json
 .pyre/
 /.idea
 /Python-Advanced/stacks_and_queues/stacks_queues_tuples_and_sets/06_paint_colors.py
+
+node_modules/
